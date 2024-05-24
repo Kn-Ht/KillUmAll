@@ -1,0 +1,6 @@
+bin/*
+*~
+*.DS_Store
+nob*
+!nob.c
+!nob.h
