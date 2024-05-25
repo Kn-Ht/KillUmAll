@@ -1,6 +1,8 @@
 #ifndef RL_WRAPPER_H
 #define RL_WRAPPER_H
 
+#include "types.h"
+
 #include "../raylib/src/raylib.h"
 #include "../raylib/src/raymath.h"
 
